@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/KatMap/static/js/main.1a475e46.js",
-    "static/css/326.9e88087f.chunk.css": "/KatMap/static/css/326.9e88087f.chunk.css",
-    "static/js/326.d80f2798.chunk.js": "/KatMap/static/js/326.d80f2798.chunk.js",
+    "main.js": "/KatMap/static/js/main.3c31ebce.js",
+    "static/css/326.f5708004.chunk.css": "/KatMap/static/css/326.f5708004.chunk.css",
+    "static/js/326.d70fab77.chunk.js": "/KatMap/static/js/326.d70fab77.chunk.js",
     "static/js/959.51786f63.chunk.js": "/KatMap/static/js/959.51786f63.chunk.js",
     "static/js/882.24ed9339.chunk.js": "/KatMap/static/js/882.24ed9339.chunk.js",
     "static/js/501.82fe2f08.chunk.js": "/KatMap/static/js/501.82fe2f08.chunk.js",
     "static/js/258.fc68beb0.chunk.js": "/KatMap/static/js/258.fc68beb0.chunk.js",
     "static/js/783.9555becb.chunk.js": "/KatMap/static/js/783.9555becb.chunk.js",
-    "static/js/862.60a8bfe0.chunk.js": "/KatMap/static/js/862.60a8bfe0.chunk.js",
+    "static/js/692.9bc79141.chunk.js": "/KatMap/static/js/692.9bc79141.chunk.js",
     "static/media/avatar-2.jpg": "/KatMap/static/media/avatar-2.0408bf30503a1b648b0f.jpg",
     "static/media/avatar-1.jpg": "/KatMap/static/media/avatar-1.6af02a7c37024c634673.jpg",
     "static/media/avatar-3.jpg": "/KatMap/static/media/avatar-3.d47868e0597a2a3126dd.jpg",
@@ -35,17 +35,17 @@
     "static/media/linkedin-brands.svg": "/KatMap/static/media/linkedin-brands.d7833fba7bdcf55514c4109c6c1eb7d0.svg",
     "static/media/facebook-square-brands.svg": "/KatMap/static/media/facebook-square-brands.38c6b4e5a1568d1aa181dd4ff5b08e05.svg",
     "static/media/waves.svg": "/KatMap/static/media/waves.311cb853ee4ac4458192f888f5433f14.svg",
-    "main.1a475e46.js.map": "/KatMap/static/js/main.1a475e46.js.map",
-    "326.9e88087f.chunk.css.map": "/KatMap/static/css/326.9e88087f.chunk.css.map",
-    "326.d80f2798.chunk.js.map": "/KatMap/static/js/326.d80f2798.chunk.js.map",
+    "main.3c31ebce.js.map": "/KatMap/static/js/main.3c31ebce.js.map",
+    "326.f5708004.chunk.css.map": "/KatMap/static/css/326.f5708004.chunk.css.map",
+    "326.d70fab77.chunk.js.map": "/KatMap/static/js/326.d70fab77.chunk.js.map",
     "959.51786f63.chunk.js.map": "/KatMap/static/js/959.51786f63.chunk.js.map",
     "882.24ed9339.chunk.js.map": "/KatMap/static/js/882.24ed9339.chunk.js.map",
     "501.82fe2f08.chunk.js.map": "/KatMap/static/js/501.82fe2f08.chunk.js.map",
     "258.fc68beb0.chunk.js.map": "/KatMap/static/js/258.fc68beb0.chunk.js.map",
     "783.9555becb.chunk.js.map": "/KatMap/static/js/783.9555becb.chunk.js.map",
-    "862.60a8bfe0.chunk.js.map": "/KatMap/static/js/862.60a8bfe0.chunk.js.map"
+    "692.9bc79141.chunk.js.map": "/KatMap/static/js/692.9bc79141.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.1a475e46.js"
+    "static/js/main.3c31ebce.js"
   ]
 }

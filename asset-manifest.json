@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/KatMap/static/js/main.3c31ebce.js",
+    "main.js": "/KatMap/static/js/main.0a6a5d3e.js",
     "static/css/326.f5708004.chunk.css": "/KatMap/static/css/326.f5708004.chunk.css",
-    "static/js/326.d70fab77.chunk.js": "/KatMap/static/js/326.d70fab77.chunk.js",
-    "static/js/959.51786f63.chunk.js": "/KatMap/static/js/959.51786f63.chunk.js",
+    "static/js/326.5f5cbe81.chunk.js": "/KatMap/static/js/326.5f5cbe81.chunk.js",
+    "static/js/959.16e764c3.chunk.js": "/KatMap/static/js/959.16e764c3.chunk.js",
     "static/js/882.24ed9339.chunk.js": "/KatMap/static/js/882.24ed9339.chunk.js",
-    "static/js/501.82fe2f08.chunk.js": "/KatMap/static/js/501.82fe2f08.chunk.js",
+    "static/js/34.f4927e86.chunk.js": "/KatMap/static/js/34.f4927e86.chunk.js",
     "static/js/258.fc68beb0.chunk.js": "/KatMap/static/js/258.fc68beb0.chunk.js",
     "static/js/783.9555becb.chunk.js": "/KatMap/static/js/783.9555becb.chunk.js",
     "static/js/692.9bc79141.chunk.js": "/KatMap/static/js/692.9bc79141.chunk.js",
@@ -22,7 +22,6 @@
     "static/media/logo.png": "/KatMap/static/media/logo.18c45daf07442329e1a1.png",
     "static/media/sora.jpg": "/KatMap/static/media/sora.56c25df4977c77868373.jpg",
     "static/media/brillo.jpg": "/KatMap/static/media/brillo.c088cd3cf7f6484bae90.jpg",
-    "static/media/arrow-up.png": "/KatMap/static/media/arrow-up.d62093b071b7990bceda.png",
     "static/media/slick.svg": "/KatMap/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/KatMap/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/KatMap/static/media/slick.c94f7671dcc99dce43e2.ttf",
@@ -34,18 +33,19 @@
     "index.html": "/KatMap/index.html",
     "static/media/linkedin-brands.svg": "/KatMap/static/media/linkedin-brands.d7833fba7bdcf55514c4109c6c1eb7d0.svg",
     "static/media/facebook-square-brands.svg": "/KatMap/static/media/facebook-square-brands.38c6b4e5a1568d1aa181dd4ff5b08e05.svg",
+    "static/media/arrow-up.svg": "/KatMap/static/media/arrow-up.65164624ca1539634ee30e63113402a1.svg",
     "static/media/waves.svg": "/KatMap/static/media/waves.311cb853ee4ac4458192f888f5433f14.svg",
-    "main.3c31ebce.js.map": "/KatMap/static/js/main.3c31ebce.js.map",
+    "main.0a6a5d3e.js.map": "/KatMap/static/js/main.0a6a5d3e.js.map",
     "326.f5708004.chunk.css.map": "/KatMap/static/css/326.f5708004.chunk.css.map",
-    "326.d70fab77.chunk.js.map": "/KatMap/static/js/326.d70fab77.chunk.js.map",
-    "959.51786f63.chunk.js.map": "/KatMap/static/js/959.51786f63.chunk.js.map",
+    "326.5f5cbe81.chunk.js.map": "/KatMap/static/js/326.5f5cbe81.chunk.js.map",
+    "959.16e764c3.chunk.js.map": "/KatMap/static/js/959.16e764c3.chunk.js.map",
     "882.24ed9339.chunk.js.map": "/KatMap/static/js/882.24ed9339.chunk.js.map",
-    "501.82fe2f08.chunk.js.map": "/KatMap/static/js/501.82fe2f08.chunk.js.map",
+    "34.f4927e86.chunk.js.map": "/KatMap/static/js/34.f4927e86.chunk.js.map",
     "258.fc68beb0.chunk.js.map": "/KatMap/static/js/258.fc68beb0.chunk.js.map",
     "783.9555becb.chunk.js.map": "/KatMap/static/js/783.9555becb.chunk.js.map",
     "692.9bc79141.chunk.js.map": "/KatMap/static/js/692.9bc79141.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.3c31ebce.js"
+    "static/js/main.0a6a5d3e.js"
   ]
 }

@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/KatMap/static/js/main.729abedc.js",
-    "static/css/467.f5fb2de1.chunk.css": "/KatMap/static/css/467.f5fb2de1.chunk.css",
+    "main.js": "/KatMap/static/js/main.f132eed6.js",
+    "static/css/467.1126edfd.chunk.css": "/KatMap/static/css/467.1126edfd.chunk.css",
     "static/js/467.4c279c33.chunk.js": "/KatMap/static/js/467.4c279c33.chunk.js",
     "static/js/959.564343fc.chunk.js": "/KatMap/static/js/959.564343fc.chunk.js",
     "static/js/14.bafff351.chunk.js": "/KatMap/static/js/14.bafff351.chunk.js",
@@ -36,8 +36,8 @@
     "static/media/facebook-square-brands.svg": "/KatMap/static/media/facebook-square-brands.38c6b4e5a1568d1aa181dd4ff5b08e05.svg",
     "static/media/arrow-up.svg": "/KatMap/static/media/arrow-up.65164624ca1539634ee30e63113402a1.svg",
     "static/media/waves.svg": "/KatMap/static/media/waves.311cb853ee4ac4458192f888f5433f14.svg",
-    "main.729abedc.js.map": "/KatMap/static/js/main.729abedc.js.map",
-    "467.f5fb2de1.chunk.css.map": "/KatMap/static/css/467.f5fb2de1.chunk.css.map",
+    "main.f132eed6.js.map": "/KatMap/static/js/main.f132eed6.js.map",
+    "467.1126edfd.chunk.css.map": "/KatMap/static/css/467.1126edfd.chunk.css.map",
     "467.4c279c33.chunk.js.map": "/KatMap/static/js/467.4c279c33.chunk.js.map",
     "959.564343fc.chunk.js.map": "/KatMap/static/js/959.564343fc.chunk.js.map",
     "14.bafff351.chunk.js.map": "/KatMap/static/js/14.bafff351.chunk.js.map",
@@ -47,6 +47,6 @@
     "191.a43c4bb1.chunk.js.map": "/KatMap/static/js/191.a43c4bb1.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.729abedc.js"
+    "static/js/main.f132eed6.js"
   ]
 }
